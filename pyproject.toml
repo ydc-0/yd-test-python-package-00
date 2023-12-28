@@ -70,7 +70,7 @@ fail_under = 100
 
 [tool.commitizen]
 name = "cz_conventional_commits"
-version = "0.0.1dev"
+version = "0.0.2"
 tag_format = "v$version"
 version_files = [
     "yd_test_python_package_00/__init__.py",
